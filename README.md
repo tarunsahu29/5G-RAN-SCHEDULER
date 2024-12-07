@@ -4,23 +4,18 @@
 
 ## 👥 **Group Information**
 
-- **Group Number**: 56
+- **Group Number**: Gr26EC431
 - **Group Members**:
   1. **Tarun Manoj Kumar Sahu**
      - **ID**: 202151171
-     - **Role**: Lead Developer
-  2. **Member 2**
-     - **ID**: 202151172
-     - **Role**: Data Analyst
-  3. **Member 3**
-     - **ID**: 202151173
-     - **Role**: Algorithm Specialist
-  4. **Member 4**
-     - **ID**: 202151174
-     - **Role**: Visualization Expert
-  5. **Member 5**
-     - **ID**: 202151175
-     - **Role**: Report Generator
+  2. **Aditya Singhal**
+     - **ID**: 202151008
+  3. **Pratyush Dixit**
+     - **ID**: 202151119
+  4. **Waikar Om Anant**
+     - **ID**: 202152344
+  5. **Raghav Agiwal**
+     - **ID**: 202151124
 
 ---
 
